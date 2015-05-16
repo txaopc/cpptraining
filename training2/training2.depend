@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1431531758 source:d:\training\cpp\cpptraining\training2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<sys/time.h>
+	<curl/curl.h>
+
+1419773765 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1420705098 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\curlver.h
+
+1420705098 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1415105476 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\curlrules.h
+
+1402509149 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\easy.h
+
+1415105476 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\multi.h
+	"curl.h"
+
+1415105476 d:\training\cpp\curl-7.40.0-devel-mingw32\include\curl\typecheck-gcc.h
+
+1419773765 d:\training\cpp\curl\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1420705098 d:\training\cpp\curl\include\curl\curlver.h
+
+1420705098 d:\training\cpp\curl\include\curl\curlbuild.h
+	<sys/types.h>
+	<sys/socket.h>
+
+1415105476 d:\training\cpp\curl\include\curl\curlrules.h
+
+1402509149 d:\training\cpp\curl\include\curl\easy.h
+
+1415105476 d:\training\cpp\curl\include\curl\multi.h
+	"curl.h"
+
+1415105476 d:\training\cpp\curl\include\curl\typecheck-gcc.h
+

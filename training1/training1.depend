@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430471425 source:d:\training\cpp\cpptraining\training1\main.cpp
+	<iostream>
+	<string>
+
